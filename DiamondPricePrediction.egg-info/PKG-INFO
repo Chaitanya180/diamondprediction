@@ -6,3 +6,6 @@ Author-email: devalraju.chaitanya@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: flask
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
